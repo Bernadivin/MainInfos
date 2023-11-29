@@ -3,8 +3,8 @@
 
 {"description":"SPORTS","sources":["ht"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjY0OTMyMjJf/beroIcone.png","title":"PRESS HOME BUTTON TO START"},
 
-{"description":"NOVELAS","sources":["ht"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjY0OTMxMDBf/beroTvlive.jpg","title":"CLIQUE MENU POUR COMMENCER"}]}]}
+{"description":"NOVELAS","sources":["ht"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","title":"CLIQUE MENU POUR COMMENCER"}]}]}
 
-{"description":"NEWS","sources":["ht"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg2MTdf/news.png","title":"SWAP FROM LEFT TO RIGHT"},
+{"description":"NEWS","sources":["ht"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","title":"SWAP FROM LEFT TO RIGHT"},
 
-{"description":"DOCUMENTARY","sources":["ht"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU0NDg1OTFf/documentaires.png","title":"GLISSER DE GAUCHE A DROITE"}
+{"description":"DOCUMENTARY","sources":["ht"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","title":"GLISSER DE GAUCHE A DROITE"}
